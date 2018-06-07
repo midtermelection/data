@@ -18,13 +18,13 @@
 	"CO": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/20/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -48,7 +48,7 @@
 	"FL": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "5/04/2018"
 		},
 		"house": {
 			"date": "08/28/2018"
@@ -63,28 +63,28 @@
 	"GA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "5/09/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/22/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "07/24/2018"
 		}
 	},
 	"HI": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/05/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/11/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/11/2018"
 		},
 		"congress": {
 			"date": ""
@@ -93,13 +93,13 @@
 	"ID": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/09/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -108,13 +108,13 @@
 	"IL": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "12/04/2017"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "03/20/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -123,13 +123,13 @@
 	"IN": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "02/09/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"congress": {
 			"date": ""
@@ -138,13 +138,13 @@
 	"IA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/16/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -153,13 +153,13 @@
 	"KS": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -168,22 +168,22 @@
 	"KY": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "01/30/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/22/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
 		}
 	},
 	"LA": {
-		"fillKey": "future",
+		"fillKey": "coming",
 		"filing": {
-			"date": "07/30/2018"
+			"date": "06/20/2018"
 		},
 		"house": {
 			"date": "11/06/2018"
@@ -198,13 +198,13 @@
 	"MD": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "02/27/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"congress": {
 			"date": ""
@@ -213,13 +213,13 @@
 	"ME": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/15/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"congress": {
 			"date": ""
@@ -228,13 +228,13 @@
 	"MA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/05/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "09/04/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "09/04/2018"
 		},
 		"congress": {
 			"date": ""
@@ -243,13 +243,13 @@
 	"MN": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/05/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"congress": {
 			"date": ""
@@ -258,13 +258,13 @@
 	"MI": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/24/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"congress": {
 			"date": ""
@@ -282,19 +282,19 @@
 			"date": "08/28/2018"
 		},
 		"congress": {
-			"date": ""
+			"date": "06/26/2018"
 		}
 	},
 	"MO": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/27/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"congress": {
 			"date": ""
@@ -303,13 +303,13 @@
 	"MT": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/12/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"congress": {
 			"date": ""
@@ -318,28 +318,28 @@
 	"NC": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "02/28/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "07/17/2018"
 		}
 	},
 	"NE": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"congress": {
 			"date": ""
@@ -348,13 +348,13 @@
 	"NV": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/16/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"congress": {
 			"date": ""
@@ -378,13 +378,13 @@
 	"NJ": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/02/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"congress": {
 			"date": ""
@@ -393,13 +393,13 @@
 	"NY": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/12/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"congress": {
 			"date": ""
@@ -408,13 +408,13 @@
 	"ND": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/09/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"congress": {
 			"date": ""
@@ -423,13 +423,13 @@
 	"NM": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/13/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"congress": {
 			"date": ""
@@ -438,13 +438,13 @@
 	"OH": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "02/07/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"congress": {
 			"date": ""
@@ -453,28 +453,28 @@
 	"OK": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/13/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "08/28/2018"
 		}
 	},
 	"OR": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/06/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -483,13 +483,13 @@
 	"PA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/20/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "05/15/2018"
 		},
 		"congress": {
 			"date": ""
@@ -513,43 +513,43 @@
 	"SC": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/30/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "06/26/2018"
 		}
 	},
 	"SD": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/27/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "08/14/2018"
 		}
 	},
 	"TN": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "04/05/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/02/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/02/2018"
 		},
 		"congress": {
 			"date": ""
@@ -558,28 +558,28 @@
 	"TX": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "12/11/2017"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "03/06/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "03/06/2018"
 		},
 		"congress": {
-			"date": ""
+			"date": "05/22/2018"
 		}
 	},
 	"UT": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/15/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/26/2018"
 		},
 		"congress": {
 			"date": ""
@@ -588,13 +588,13 @@
 	"WI": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"congress": {
 			"date": ""
@@ -603,13 +603,13 @@
 	"VA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "5/29/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/12/2018"
 		},
 		"congress": {
 			"date": ""
@@ -618,13 +618,13 @@
 	"VT": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "5/31/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/14/2018"
 		},
 		"congress": {
 			"date": ""
@@ -633,13 +633,13 @@
 	"WA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "05/18/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/07/2018"
 		},
 		"congress": {
 			"date": ""
@@ -648,13 +648,13 @@
 	"WV": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "01/27/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "05/08/2018"
 		},
 		"congress": {
 			"date": ""
@@ -663,13 +663,13 @@
 	"WY": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "08/21/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "08/21/2018"
 		},
 		"congress": {
 			"date": ""
@@ -678,13 +678,13 @@
 	"CA": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/09/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": "06/05/2018"
 		},
 		"congress": {
 			"date": ""
@@ -708,13 +708,13 @@
 	"AK": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "06/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "09/21/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
 			"date": ""
@@ -723,16 +723,16 @@
 	"AR": {
 		"fillKey": "past",
 		"filing": {
-			"date": "5/30/2018"
+			"date": "03/01/2018"
 		},
 		"house": {
-			"date": "08/28/2018"
+			"date": "05/22/2018"
 		},
 		"senate": {
-			"date": "08/28/2018"
+			"date": ""
 		},
 		"congress": {
-			"date": ""
+			"date": "06/19/2018"
 		}
 	},
 	"AL": {
@@ -741,7 +741,7 @@
 			"date": "02/09/2018"
 		},
 		"house": {
-			"date": "08/21/2018"
+			"date": "06/05/2018"
 		},
 		"senate": {
 			"date": ""
