@@ -1,1403 +1,1475 @@
 {
-    "AL": {
-      "fillKey": "upcoming",
-      "available": false
+  "AL": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "AR": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Rick Crawford",
+          "demo": "Chintan Desai",
+          "district": "Arkansas-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "French Hill",
+          "demo": "Clarke Tucker",
+          "district": "Arkansas-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Steve Womack",
+          "demo": "Josh Mahony",
+          "district": "Arkansas-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Bruce Westerman",
+          "demo": "Hayden Shamel",
+          "district": "Arkansas-04",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Arkansas",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
     },
-    "AR": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Rick Crawford",
-            "demo": "Chintan Desai",
-            "district": "Arkansas-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "French Hill",
-            "demo": "Clarke Tucker",
-            "district": "Arkansas-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Steve Womack",
-            "demo": "Josh Mahony",
-            "district": "Arkansas-03",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Bruce Westerman",
-            "demo": "Hayden Shamel",
-            "district": "Arkansas-04",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Arkansas",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
+    "fillKey": "completed",
+    "available": true
+  },
+  "AK": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "CT": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "CA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "WY": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "WV": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "David McKinley",
+          "demo": "Kendra Fershee",
+          "district": "West Virginia-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Alex Mooney",
+          "demo": "Talley Sergent",
+          "district": "West Virginia-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Carol Miller",
+          "demo": "Richard Ojeda",
+          "district": "West Virginia-03",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "West Virginia",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "WA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "VT": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "VA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "WI": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "UT": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "TX": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Louie Gohmert",
+          "demo": "Shirley J. McKellar",
+          "district": "Texas-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Todd Litton",
+          "district": "Texas-02",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Van Taylor",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-03",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "John Ratcliffe",
+          "demo": "Catherine Krantz",
+          "district": "Texas-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Dan Wood",
+          "district": "Texas-05",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-06",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "John Culberson",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-07",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Kevin Brady",
+          "demo": "Steven David",
+          "district": "Texas-08",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Al Green",
+          "district": "Texas-09",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mike McCaul",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-10",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mike Conaway",
+          "demo": "Jennie Lou Leeder",
+          "district": "Texas-11",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Kay Granger",
+          "demo": "Venessa Adia",
+          "district": "Texas-12",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mac Thornberry",
+          "demo": "Greg Sagan",
+          "district": "Texas-13",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Randy Weber",
+          "demo": "Adrienne Bell",
+          "district": "Texas-14",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Tim Westley",
+          "demo": "Vicente Gonzalez",
+          "district": "Texas-15",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Rick Seeberger",
+          "demo": "Veronica Escobar",
+          "district": "Texas-16",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Bill Flores",
+          "demo": "Rick Keneddy",
+          "district": "Texas-17",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Ava Reynero Pate",
+          "demo": "Shelila Jackson Lee",
+          "district": "Texas-18",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Jodey Arrington",
+          "demo": "Miguel Levario",
+          "district": "Texas-19",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Joaquin Castro",
+          "district": "Texas-20",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-21",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Pete Olson",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-22",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Will Hurd",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-23",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Kenny Marchant",
+          "demo": "Jan McDowell",
+          "district": "Texas-24",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Roger Willians",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-25",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Michael Burgess",
+          "demo": "Lindsay Fagan",
+          "district": "Texas-26",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-27",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Henry Cuellar",
+          "district": "Texas-28",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Decided in 5/22 runoff",
+          "demo": "Sylvia Garcia",
+          "district": "Texas-29",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "No candidate",
+          "demo": "Eddie Bernice Johnson",
+          "district": "Texas-30",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "John Carter",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-31",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Pete Sessions",
+          "demo": "Decided in 5/22 runoff",
+          "district": "Texas-32",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Willie Billups",
+          "demo": "Marc Veasey",
+          "district": "Texas-33",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "rey Gonzalez",
+          "demo": "Filemon Vela",
+          "district": "Texas-34",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "David Smalling",
+          "demo": "Lloyd Doggett",
+          "district": "Texas-35",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Brian Babin",
+          "demo": "Dayna Steele",
+          "district": "Texas-36",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Ted Cruz",
+          "demo": "Beto O'Rourke",
+          "location": "Texas",
+          "repKey": true,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "TN": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "SD": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "SC": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "RI": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "PA": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Brian Fitzpatrick",
+          "demo": "Scott Wallace",
+          "district": "Pennsylvania-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "David Torres",
+          "demo": "Brendon Boyle",
+          "district": "Pennsylvania-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Bryan Leib",
+          "demo": "Dwight Evans",
+          "district": "Pennsylvania-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Dan David",
+          "demo": "Madeleine Dean",
+          "district": "Pennsylvania-04",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Pearl Kim",
+          "demo": "Mary Gay Scanlon",
+          "district": "Pennsylvania-05",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Greg McCauley",
+          "demo": "Chrissy Houlahan",
+          "district": "Pennsylvania-06",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Marty Nothstein",
+          "demo": "Susan Wild",
+          "district": "Pennsylvania-07",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "John Chrin",
+          "demo": "Matt Cartwright",
+          "district": "Pennsylvania-08",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Dan Meuser",
+          "demo": "Denny Wolff",
+          "district": "Pennsylvania-09",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Scott Perry",
+          "demo": "George Scott",
+          "district": "Pennsylvania-10",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Lloyd Smucker",
+          "demo": "Jess King",
+          "district": "Pennsylvania-11",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Tom Marino",
+          "demo": "MArc Friedenberg",
+          "district": "Pennsylvania-12",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "John Joyce",
+          "demo": "Brent Ottaway",
+          "district": "Pennsylvania-13",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Guy Reschenthaler",
+          "demo": "Bibiana Boerio",
+          "district": "Pennsylvania-14",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Glenn Thompson",
+          "demo": "Susan Boser",
+          "district": "Pennsylvania-15",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mike Kelly",
+          "demo": "Ron DiNicola",
+          "district": "Pennsylvania-16",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Keith Rothfus",
+          "demo": "Conor Lamb",
+          "district": "Pennsylvania-17",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "No candidate",
+          "demo": "Mike Doyle",
+          "district": "Pennsylvania-18",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Lou Barletta",
+          "demo": "Bob Casey",
+          "location": "Pennsylvania",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "OR": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "John Verbeek",
+          "demo": "Suzanne Bonamici",
+          "district": "Oregon-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Greg Walden",
+          "demo": "Jammie McLeod-Skinner",
+          "district": "Oregon-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Earl Blumenauer",
+          "district": "Oregon-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Authur Robinson",
+          "demo": "Peter DeFazio",
+          "district": "Oregon-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mark Callahan",
+          "demo": "Kurt Schrader",
+          "district": "Oregon-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Oregon",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "OK": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "OH": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Steve Chabot",
+          "demo": "Aftab Pureval",
+          "district": "Ohio-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Brad Wenstrup",
+          "demo": "Jill Schiller",
+          "district": "Ohio-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Jimmy Burgess",
+          "demo": "Joyce Beatty",
+          "district": "Ohio-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Jim Jordan",
+          "demo": "Janet Garrett",
+          "district": "Ohio-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Bob Latta",
+          "demo": "Michael Galbraith",
+          "district": "Ohio-05",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Bill Johnson",
+          "demo": "Shwana Roberts",
+          "district": "Ohio-06",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Bob Gibbs",
+          "demo": "Ken Harbaugh",
+          "district": "Ohio-07",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Warren Davidson",
+          "demo": "Venessa Enoch",
+          "district": "Ohio-08",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Steven Kraus",
+          "demo": "Marcy Kaptur",
+          "district": "Ohio-09",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mike Turner",
+          "demo": "Theresa Gasper",
+          "district": "Ohio-10",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Beverly Goldstein",
+          "demo": "Marcia Fudge",
+          "district": "Ohio-11",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Troy Balderson",
+          "demo": "Dnny O'Connor",
+          "district": "Ohio-12",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Chris Depizzo",
+          "demo": "Tim Ryan",
+          "district": "Ohio-13",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "David Joyce",
+          "demo": "Betsy Rader",
+          "district": "Ohio-14",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Steve Stivers",
+          "demo": "Rick Neal",
+          "district": "Ohio-15",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Anthony Gonzalez",
+          "demo": "Susan Moral Palmer",
+          "district": "Ohio-16",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Jim Renacci",
+          "demo": "Sherrod Brown",
+          "location": "Ohio",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "NM": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "ND": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "NY": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "NJ": {
+    "candidates": {
+    "house": [
+      {
+        "rep": "Paul Dilks",
+        "demo": "Donald Norcross",
+        "district": "New Jersey-01",
+        "repKey": false,
+        "demoKey": true
       },
-      "fillKey": "completed",
-      "available": true
-    },
-    "AK": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "CT": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "CA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "WY": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "WV": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "David McKinley",
-            "demo": "Kendra Fershee",
-            "district": "West Virginia-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Alex Mooney",
-            "demo": "Talley Sergent",
-            "district": "West Virginia-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Carol Miller",
-            "demo": "Richard Ojeda",
-            "district": "West Virginia-03",
-            "repKey": false,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "West Virginia",
-            "repKey": false,
-            "demoKey": true
-          }
-        ]
+      {
+        "rep": "Seth Grossman",
+        "demo": "Jeff Van Drew",
+        "district": "New Jersey-02",
+        "repKey": false,
+        "demoKey": false
       },
-      "fillKey": "completed",
-      "available": true
-    },
-    "WA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "VT": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "VA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "WI": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "UT": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "TX": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Louie Gohmert",
-            "demo": "Shirley J. McKellar",
-            "district": "Texas-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Todd Litton",
-            "district": "Texas-02",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Van Taylor",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-03",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "John Ratcliffe",
-            "demo": "Catherine Krantz",
-            "district": "Texas-04",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Dan Wood",
-            "district": "Texas-05",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-06",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "John Culberson",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-07",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Kevin Brady",
-            "demo": "Steven David",
-            "district": "Texas-08",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "No Candidate",
-            "demo": "Al Green",
-            "district": "Texas-09",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Mike McCaul",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-10",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mike Conaway",
-            "demo": "Jennie Lou Leeder",
-            "district": "Texas-11",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Kay Granger",
-            "demo": "Venessa Adia",
-            "district": "Texas-12",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mac Thornberry",
-            "demo": "Greg Sagan",
-            "district": "Texas-13",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Randy Weber",
-            "demo": "Adrienne Bell",
-            "district": "Texas-14",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Tim Westley",
-            "demo": "Vicente Gonzalez",
-            "district": "Texas-15",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Rick Seeberger",
-            "demo": "Veronica Escobar",
-            "district": "Texas-16",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Bill Flores",
-            "demo": "Rick Keneddy",
-            "district": "Texas-17",
-            "key": "Incumbent",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Ava Reynero Pate",
-            "demo": "Shelila Jackson Lee",
-            "district": "Texas-18",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Jodey Arrington",
-            "demo": "Miguel Levario",
-            "district": "Texas-19",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "No Candidate",
-            "demo": "Joaquin Castro",
-            "district": "Texas-20",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-21",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Pete Olson",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-22",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Will Hurd",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-23",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Kenny Marchant",
-            "demo": "Jan McDowell",
-            "district": "Texas-24",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Roger Willians",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-25",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Michael Burgess",
-            "demo": "Lindsay Fagan",
-            "district": "Texas-26",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-27",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "No Candidate",
-            "demo": "Henry Cuellar",
-            "district": "Texas-28",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Decided in 5/22 runoff",
-            "demo": "Sylvia Garcia",
-            "district": "Texas-29",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "No candidate",
-            "demo": "Eddie Bernice Johnson",
-            "district": "Texas-30",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "John Carter",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-31",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Pete Sessions",
-            "demo": "Decided in 5/22 runoff",
-            "district": "Texas-32",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Willie Billups",
-            "demo": "Marc Veasey",
-            "district": "Texas-33",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "rey Gonzalez",
-            "demo": "Filemon Vela",
-            "district": "Texas-34",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "David Smalling",
-            "demo": "Lloyd Doggett",
-            "district": "Texas-35",
-            "key": "Incumbent",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Brian Babin",
-            "demo": "Dayna Steele",
-            "district": "Texas-36",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "Ted Cruz",
-            "demo": "Beto O'Rourke",
-            "location": "Texas",
-            "repKey": true,
-            "demoKey": false
-          }
-        ]
+      {
+        "rep": "Tom MacArthur",
+        "demo": "Andy Kim",
+        "district": "New Jersey-03",
+        "repKey": true,
+        "demoKey": false
       },
-      "fillKey": "completed",
-      "available": true
-    },
-    "TN": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "SD": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "SC": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "RI": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "PA": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Brian Fitzpatrick",
-            "demo": "Scott Wallace",
-            "district": "Pennsylvania-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "David Torres",
-            "demo": "Brendon Boyle",
-            "district": "Pennsylvania-02",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Bryan Leib",
-            "demo": "Dwight Evans",
-            "district": "Pennsylvania-03",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Dan David",
-            "demo": "Madeleine Dean",
-            "district": "Pennsylvania-04",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Pearl Kim",
-            "demo": "Mary Gay Scanlon",
-            "district": "Pennsylvania-05",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Greg McCauley",
-            "demo": "Chrissy Houlahan",
-            "district": "Pennsylvania-06",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Marty Nothstein",
-            "demo": "Susan Wild",
-            "district": "Pennsylvania-07",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "John Chrin",
-            "demo": "Matt Cartwright",
-            "district": "Pennsylvania-08",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Dan Meuser",
-            "demo": "Denny Wolff",
-            "district": "Pennsylvania-09",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Scott Perry",
-            "demo": "George Scott",
-            "district": "Pennsylvania-10",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Lloyd Smucker",
-            "demo": "Jess King",
-            "district": "Pennsylvania-11",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Tom Marino",
-            "demo": "MArc Friedenberg",
-            "district": "Pennsylvania-12",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "John Joyce",
-            "demo": "Brent Ottaway",
-            "district": "Pennsylvania-13",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Guy Reschenthaler",
-            "demo": "Bibiana Boerio",
-            "district": "Pennsylvania-14",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Glenn Thompson",
-            "demo": "Susan Boser",
-            "district": "Pennsylvania-15",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mike Kelly",
-            "demo": "Ron DiNicola",
-            "district": "Pennsylvania-16",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Keith Rothfus",
-            "demo": "Conor Lamb",
-            "district": "Pennsylvania-17",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "No candidate",
-            "demo": "Mike Doyle",
-            "district": "Pennsylvania-18",
-            "repKey": false,
-            "demoKey": true
-          }
-        ],
-        "senate": [
-          {
-            "rep": "Lou Barletta",
-            "demo": "Bob Casey",
-            "location": "Pennsylvania",
-            "repKey": false,
-            "demoKey": true
-          }
-        ]
+      {
+        "rep": "Chris Smith",
+        "demo": "Joshua Welle",
+        "district": "New Jersey-04",
+        "repKey": true,
+        "demoKey": false
       },
-      "fillKey": "completed",
-      "available": true
+      {
+        "rep": "John McCann",
+        "demo": "Josh Gottheimer",
+        "district": "New Jersey-05",
+        "repKey": false,
+        "demoKey": true
+      }
+    ],
+    "senate": [
+      {
+        "rep": "Bob Hugin",
+        "demo": "Bob Menendez",
+        "location": "New Jersey",
+        "repKey": false,
+        "demoKey": true
+      }
+    ]
+  },
+    "fillKey": "completed",
+    "available": true
+  },
+  "NH": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "NV": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "NE": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Jeff Fortenberry",
+          "demo": "Jessica McClure",
+          "district": "Nebraska-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Don Bacon",
+          "demo": "Kara EastMan",
+          "district": "Nebraska-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Adrian Smith",
+          "demo": "Paul Theobald",
+          "district": "Nebraska-03",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Deb Fischer",
+          "demo": "Jane Raybould",
+          "location": "Nebraska",
+          "repKey": true,
+          "demoKey": false
+        }
+      ]
     },
-    "OR": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "John Verbeek",
-            "demo": "Suzanne Bonamici",
-            "district": "Oregon-01",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Greg Walden",
-            "demo": "Jammie McLeod-Skinner",
-            "district": "Oregon-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "No Candidate",
-            "demo": "Earl Blumenauer",
-            "district": "Oregon-03",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Authur Robinson",
-            "demo": "Peter DeFazio",
-            "district": "Oregon-04",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Mark Callahan",
-            "demo": "Kurt Schrader",
-            "district": "Oregon-05",
-            "repKey": false,
-            "demoKey": true
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Oregon",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
+    "fillKey": "completed",
+    "available": true
+  },
+  "NC": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Roger Allison",
+          "demo": "G.K Butterfield",
+          "district": "North Carolina-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "George Holding",
+          "demo": "Linda Coleman",
+          "district": "North Carolina-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Walter Jones",
+          "demo": "No candidate",
+          "district": "North Carolina-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Steve Loor",
+          "demo": "David Price",
+          "district": "North Carolina-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Virginia Foxx",
+          "demo": "DD Adams",
+          "district": "North Carolina-05",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mark Walker",
+          "demo": "Ryan Watts",
+          "district": "North Carolina-06",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "David Rouzer",
+          "demo": "Kyle Horton",
+          "district": "North Carolina-07",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Richard Hudson",
+          "demo": "Frank McNeil",
+          "district": "North Carolina-08",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mark Harris",
+          "demo": "Dan McCready",
+          "district": "North Carolina-09",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Patrick McHenry",
+          "demo": "David Brown",
+          "district": "North Carolina-10",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mark Meadows",
+          "demo": "Phillip Price",
+          "district": "North Carolina-11",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Paul Wright",
+          "demo": "Alma Adams",
+          "district": "North Carolina-12",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Ted Budd",
+          "demo": "Kathy Manning",
+          "district": "North Carolina-13",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "North Carolina",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
+  },
+  "MT": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "MO": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "MS": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "MI": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "MN": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "MA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "ME": {
+    "candidates": {
+    "house": [
+      {
+        "rep": "Mark Holbrook",
+        "demo": "Chellie Pingree",
+        "district": "Maine-01",
+        "repKey": false,
+        "demoKey": true
       },
-      "fillKey": "completed",
-      "available": true
+      {
+        "rep": "Bruce Poliquin",
+        "demo": "Jared Golden",
+        "district": "Maine-02",
+        "repKey": true,
+        "demoKey": false
+      }
+    ],
+    "senate": [
+      {
+        "rep": "Zak Ringelstein",
+        "demo": "Eric Brakey",
+        "location": "Maine",
+        "repKey": false,
+        "demoKey": false
+      }
+    ]
+  },
+    "fillKey": "completed",
+    "available": true
+  },
+  "MD": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "LA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "KY": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "James Comer",
+          "demo": "Paul Walker",
+          "district": "Kentucky-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Brett Guthrie",
+          "demo": "Hank Linderman",
+          "district": "Kentucky-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Vickie Glisson",
+          "demo": "John Yarmuth",
+          "district": "Kentucky-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Thomas Massie",
+          "demo": "Seth Hall",
+          "district": "Kentucky-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Hal Rogers",
+          "demo": "Kenneth Stepp",
+          "district": "Kentucky-05",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Andy Barr",
+          "demo": "Amy McGrath",
+          "district": "Kentucky-06",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Kentucky",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
     },
-    "OK": {
-      "fillKey": "upcoming",
-      "available": false
+    "fillKey": "completed",
+    "available": true
+  },
+  "KS": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "IA": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "IN": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Mark Leyva",
+          "demo": "Peter Visclosky",
+          "district": "Indiana-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Jackie Walorski",
+          "demo": "Mel Hall",
+          "district": "Indiana-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Jim Banks",
+          "demo": "Courtney Tritch",
+          "district": "Indiana-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Jim Baird",
+          "demo": "Tobi Beck",
+          "district": "Indiana-04",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Susan Brooks",
+          "demo": "Dee Thornton",
+          "district": "Indiana-05",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Greg Pence",
+          "demo": "Jeannine Lake",
+          "district": "Indiana-06",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Wayne Harmon",
+          "demo": "Andre Carson",
+          "district": "Indiana-07",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Larry Bucshon",
+          "demo": "William Tanoos",
+          "district": "Indiana-08",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Trey Hollingsworth",
+          "demo": "Liz Watson",
+          "district": "Indiana-09",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Mike Braun",
+          "demo": "Joe Donnelly",
+          "location": "Indiana",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
     },
-    "OH": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Steve Chabot",
-            "demo": "Aftab Pureval",
-            "district": "Ohio-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Brad Wenstrup",
-            "demo": "Jill Schiller",
-            "district": "Ohio-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Jimmy Burgess",
-            "demo": "Joyce Beatty",
-            "district": "Ohio-03",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Jim Jordan",
-            "demo": "Janet Garrett",
-            "district": "Ohio-04",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Bob Latta",
-            "demo": "Michael Galbraith",
-            "district": "Ohio-05",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Bill Johnson",
-            "demo": "Shwana Roberts",
-            "district": "Ohio-06",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Bob Gibbs",
-            "demo": "Ken Harbaugh",
-            "district": "Ohio-07",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Warren Davidson",
-            "demo": "Venessa Enoch",
-            "district": "Ohio-08",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Steven Kraus",
-            "demo": "Marcy Kaptur",
-            "district": "Ohio-09",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Mike Turner",
-            "demo": "Theresa Gasper",
-            "district": "Ohio-10",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Beverly Goldstein",
-            "demo": "Marcia Fudge",
-            "district": "Ohio-11",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Troy Balderson",
-            "demo": "Dnny O'Connor",
-            "district": "Ohio-12",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Chris Depizzo",
-            "demo": "Tim Ryan",
-            "district": "Ohio-13",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "David Joyce",
-            "demo": "Betsy Rader",
-            "district": "Ohio-14",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Steve Stivers",
-            "demo": "Rick Neal",
-            "district": "Ohio-15",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Anthony Gonzalez",
-            "demo": "Susan Moral Palmer",
-            "district": "Ohio-16",
-            "repKey": false,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "Jim Renacci",
-            "demo": "Sherrod Brown",
-            "location": "Ohio",
-            "repKey": false,
-            "demoKey": true
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
+    "fillKey": "completed",
+    "available": true
+  },
+  "IL": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Jimmy Lee Tillman",
+          "demo": "Bobby Rush",
+          "district": "Illinois-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "David Merkle",
+          "demo": "Robin Kelly",
+          "district": "Illinois-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Arthur Jones",
+          "demo": "Dan Lipinski",
+          "district": "Illinois-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mark Lorch",
+          "demo": "Chuy Garcia",
+          "district": "Illinois-04",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Tom Hanson",
+          "demo": "Mike Quigley",
+          "district": "Illinois-05",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Peter Roskam",
+          "demo": "Sean Casten",
+          "district": "Illinois-06",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Craig Cameron",
+          "demo": "Danny Davis",
+          "district": "Illinois-07",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "JD Diganvker",
+          "demo": "Raja Krishnamoorthi",
+          "district": "Illinois-08",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "John Elleson",
+          "demo": "Jan Schakowsky",
+          "district": "Illinois-09",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Douglas Bennett",
+          "demo": "Brad Schneider",
+          "district": "Illinois-10",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Nick Stella",
+          "demo": "Bill Foster",
+          "district": "Illinois-11",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mike Bost",
+          "demo": "Brendan Kelly",
+          "district": "Oregon-12",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Rodney Davis",
+          "demo": "Betsy Dirksen Londrigan",
+          "district": "Illinois-13",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Randt Hultgren",
+          "demo": "Lauren Underwood",
+          "district": "Illinois-14",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "John Shimkus",
+          "demo": "Kevin Gaither",
+          "district": "Illinois-15",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Adam Kinzinger",
+          "demo": "Sara Dady",
+          "district": "Illinois-16",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Bill Fawell",
+          "demo": "Cheri Bustos",
+          "district": "Illinois-17",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Darin LaHood",
+          "demo": "Junius Rodriguez",
+          "district": "Illinois-18",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Illinois",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
     },
-    "NM": {
-      "fillKey": "upcoming",
-      "available": false
+    "fillKey": "completed",
+    "available": true
+  },
+  "ID": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Russ Fulcher",
+          "demo": "Cristina McNeil",
+          "district": "Idaho-01",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Mike Simpson",
+          "demo": "Aaron Swisher",
+          "district": "Oregon-02",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Idaho",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
     },
-    "ND": {
-      "fillKey": "upcoming",
-      "available": false
+    "fillKey": "completed",
+    "available": true
+  },
+  "HI": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "GA": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "Buddy Carter",
+          "demo": "Lisa Ring",
+          "district": "Georgia-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Herman West",
+          "demo": "Sanford Bishop",
+          "district": "Georgia-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Drew Ferguson",
+          "demo": "Chuck Enderlin",
+          "district": "Georgia-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Joe Profit",
+          "demo": "Hank Johnson",
+          "district": "Georgia-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "No candidate",
+          "demo": "John Lewis",
+          "district": "Georgia-05",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Karen Handel",
+          "demo": "To be determined in runoff",
+          "district": "Georgia-06",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Rob Woodall",
+          "demo": "To be determined in runoff",
+          "district": "Georgia-07",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Austin Scott",
+          "demo": "No candidate",
+          "district": "Georgia-08",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Doug Collins",
+          "demo": "Josh McCall",
+          "district": "Georgia-09",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Jody Hice",
+          "demo": "Tabitha Johnson-Green",
+          "district": "Georgia-10",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Barry Loudermilk",
+          "demo": "Flynn Broady",
+          "district": "Georgia-11",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Rick Allen",
+          "demo": "Francys Johnson",
+          "district": "Georgia-12",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "David Callahan",
+          "demo": "David Scott",
+          "district": "Georgia-13",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Tom Graves",
+          "demo": "Steven Foster",
+          "district": "Georgia-14",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Georgia",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
     },
-    "NY": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "NJ": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "NH": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "NV": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "NE": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Jeff Fortenberry",
-            "demo": "Jessica McClure",
-            "district": "Nebraska-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Don Bacon",
-            "demo": "Kara EastMan",
-            "district": "Nebraska-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Adrian Smith",
-            "demo": "Paul Theobald",
-            "district": "Nebraska-03",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "Deb Fischer",
-            "demo": "Jane Raybould",
-            "location": "Nebraska",
-            "repKey": true,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "NC": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Roger Allison",
-            "demo": "G.K Butterfield",
-            "district": "North Carolina-01",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "George Holding",
-            "demo": "Linda Coleman",
-            "district": "North Carolina-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Walter Jones",
-            "demo": "No candidate",
-            "district": "North Carolina-03",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Steve Loor",
-            "demo": "David Price",
-            "district": "North Carolina-04",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Virginia Foxx",
-            "demo": "DD Adams",
-            "district": "North Carolina-05",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mark Walker",
-            "demo": "Ryan Watts",
-            "district": "North Carolina-06",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "David Rouzer",
-            "demo": "Kyle Horton",
-            "district": "North Carolina-07",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Richard Hudson",
-            "demo": "Frank McNeil",
-            "district": "North Carolina-08",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mark Harris",
-            "demo": "Dan McCready",
-            "district": "North Carolina-09",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Patrick McHenry",
-            "demo": "David Brown",
-            "district": "North Carolina-10",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Mark Meadows",
-            "demo": "Phillip Price",
-            "district": "North Carolina-11",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Paul Wright",
-            "demo": "Alma Adams",
-            "district": "North Carolina-12",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Ted Budd",
-            "demo": "Kathy Manning",
-            "district": "North Carolina-13",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "North Carolina",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "MT": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MO": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MS": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MI": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MN": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "ME": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "MD": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "LA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "KY": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "James Comer",
-            "demo": "Paul Walker",
-            "district": "Kentucky-01",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Brett Guthrie",
-            "demo": "Hank Linderman",
-            "district": "Kentucky-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Vickie Glisson",
-            "demo": "John Yarmuth",
-            "district": "Kentucky-03",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Thomas Massie",
-            "demo": "Seth Hall",
-            "district": "Kentucky-04",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Hal Rogers",
-            "demo": "Kenneth Stepp",
-            "district": "Kentucky-05",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Andy Barr",
-            "demo": "Amy McGrath",
-            "district": "Kentucky-06",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Kentucky",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "KS": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "IA": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "IN": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Mark Leyva",
-            "demo": "Peter Visclosky",
-            "district": "Indiana-01",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Jackie Walorski",
-            "demo": "Mel Hall",
-            "district": "Indiana-02",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Jim Banks",
-            "demo": "Courtney Tritch",
-            "district": "Indiana-03",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Jim Baird",
-            "demo": "Tobi Beck",
-            "district": "Indiana-04",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Susan Brooks",
-            "demo": "Dee Thornton",
-            "district": "Indiana-05",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Greg Pence",
-            "demo": "Jeannine Lake",
-            "district": "Indiana-06",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Wayne Harmon",
-            "demo": "Andre Carson",
-            "district": "Indiana-07",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Larry Bucshon",
-            "demo": "William Tanoos",
-            "district": "Indiana-08",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Trey Hollingsworth",
-            "demo": "Liz Watson",
-            "district": "Indiana-09",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "Mike Braun",
-            "demo": "Joe Donnelly",
-            "location": "Indiana",
-            "repKey": false,
-            "demoKey": true
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "IL": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Jimmy Lee Tillman",
-            "demo": "Bobby Rush",
-            "district": "Illinois-01",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "David Merkle",
-            "demo": "Robin Kelly",
-            "district": "Illinois-02",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Arthur Jones",
-            "demo": "Dan Lipinski",
-            "district": "Illinois-03",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Mark Lorch",
-            "demo": "Chuy Garcia",
-            "district": "Illinois-04",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Tom Hanson",
-            "demo": "Mike Quigley",
-            "district": "Illinois-05",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Peter Roskam",
-            "demo": "Sean Casten",
-            "district": "Illinois-06",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Craig Cameron",
-            "demo": "Danny Davis",
-            "district": "Illinois-07",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "JD Diganvker",
-            "demo": "Raja Krishnamoorthi",
-            "district": "Illinois-08",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "John Elleson",
-            "demo": "Jan Schakowsky",
-            "district": "Illinois-09",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Douglas Bennett",
-            "demo": "Brad Schneider",
-            "district": "Illinois-10",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Nick Stella",
-            "demo": "Bill Foster",
-            "district": "Illinois-11",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Mike Bost",
-            "demo": "Brendan Kelly",
-            "district": "Oregon-12",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Rodney Davis",
-            "demo": "Betsy Dirksen Londrigan",
-            "district": "Illinois-13",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Randt Hultgren",
-            "demo": "Lauren Underwood",
-            "district": "Illinois-14",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "John Shimkus",
-            "demo": "Kevin Gaither",
-            "district": "Illinois-15",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Adam Kinzinger",
-            "demo": "Sara Dady",
-            "district": "Illinois-16",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Bill Fawell",
-            "demo": "Cheri Bustos",
-            "district": "Illinois-17",
-            "key": "Incumbent",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Darin LaHood",
-            "demo": "Junius Rodriguez",
-            "district": "Illinois-18",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Illinois",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "ID": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Russ Fulcher",
-            "demo": "Cristina McNeil",
-            "district": "Idaho-01",
-            "repKey": false,
-            "demoKey": false
-          },
-          {
-            "rep": "Mike Simpson",
-            "demo": "Aaron Swisher",
-            "district": "Oregon-02",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Idaho",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "completed",
-      "available": true
-    },
-    "HI": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "GA": {
-      "candidates": {
-        "house": [
-          {
-            "rep": "Buddy Carter",
-            "demo": "Lisa Ring",
-            "district": "Georgia-01",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Herman West",
-            "demo": "Sanford Bishop",
-            "district": "Georgia-02",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Drew Ferguson",
-            "demo": "Chuck Enderlin",
-            "district": "Georgia-03",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Joe Profit",
-            "demo": "Hank Johnson",
-            "district": "Georgia-04",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "No candidate",
-            "demo": "John Lewis",
-            "district": "Georgia-05",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Karen Handel",
-            "demo": "To be determined in runoff",
-            "district": "Georgia-06",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Rob Woodall",
-            "demo": "To be determined in runoff",
-            "district": "Georgia-07",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Austin Scott",
-            "demo": "No candidate",
-            "district": "Georgia-08",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Doug Collins",
-            "demo": "Josh McCall",
-            "district": "Georgia-09",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Jody Hice",
-            "demo": "Tabitha Johnson-Green",
-            "district": "Georgia-10",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Barry Loudermilk",
-            "demo": "Flynn Broady",
-            "district": "Georgia-11",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "Rick Allen",
-            "demo": "Francys Johnson",
-            "district": "Georgia-12",
-            "repKey": true,
-            "demoKey": false
-          },
-          {
-            "rep": "David Callahan",
-            "demo": "David Scott",
-            "district": "Georgia-13",
-            "repKey": false,
-            "demoKey": true
-          },
-          {
-            "rep": "Tom Graves",
-            "demo": "Steven Foster",
-            "district": "Georgia-14",
-            "repKey": true,
-            "demoKey": false
-          }
-        ],
-        "senate": [
-          {
-            "rep": "No race",
-            "demo": "No race",
-            "location": "Georgia",
-            "repKey": false,
-            "demoKey": false
-          }
-        ]
-      },
-      "fillKey": "pending",
-      "available": true
-    },
-    "FL": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "DE": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "CO": {
-      "fillKey": "upcoming",
-      "available": false
-    },
-    "AZ": {
-      "fillKey": "upcoming",
-      "available": false
-    }
+    "fillKey": "pending",
+    "available": true
+  },
+  "FL": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "DE": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "CO": {
+    "fillKey": "upcoming",
+    "available": false
+  },
+  "AZ": {
+    "fillKey": "upcoming",
+    "available": false
   }
+}
