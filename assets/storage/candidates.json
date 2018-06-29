@@ -744,8 +744,56 @@
     "available": false
   },
   "NY": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Lee Zeldin",
+          "demo": "Perry Gershon",
+          "district": "New York-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Peter King",
+          "demo": "Liuba Grechen Shirley",
+          "district": "New York-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Dan DeBono",
+          "demo": "Tom Suozzi",
+          "district": "New York-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Ameer Benno",
+          "demo": "Kathleen Rice",
+          "district": "New York-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Gregory W. Meeks",
+          "district": "New York-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Chele Farley",
+          "demo": "Kirsten Gillibrand",
+          "location": "New York",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "NJ": {
     "candidates": {
