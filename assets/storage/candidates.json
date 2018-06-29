@@ -57,10 +57,78 @@
     "available": false
   },
   "CA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Doug LaMalfa",
+          "demo": "Audrey Denney",
+          "district": "California-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Dale Mensing",
+          "demo": "Jared Huffman",
+          "district": "California-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Charlie Schnapp",
+          "demo": "John Garamendi",
+          "district": "California-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Tom McClintock",
+          "demo": "Jessica Morse",
+          "district": "California-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Mike Thompson",
+          "district": "California-05",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No Canidate",
+          "demo": "Dianne Feinstein | Kevin De Leon ",
+          "location": "California",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "WY": {
+    "candidates": {
+      "house": [
+        {
+          "rep": "To be determined",
+          "demo": "To be determined",
+          "district": "Wyoming-01",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "To be determined",
+          "demo": "To be determined",
+          "location": "Wyoming",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
     "fillKey": "upcoming",
     "available": false
   },
@@ -91,8 +159,8 @@
       ],
       "senate": [
         {
-          "rep": "No race",
-          "demo": "No race",
+          "rep": "Patrick Morrisey",
+          "demo": "Joe Manchin",
           "location": "West Virginia",
           "repKey": false,
           "demoKey": true
@@ -133,13 +201,15 @@
           "district": "Virginia-03",
           "repKey": false,
           "demoKey": true
-        }, {
+        },
+        {
           "rep": "Ryan McAdams",
           "demo": "Donald McEachin",
           "district": "Virginia-04",
           "repKey": false,
           "demoKey": true
-        }, {
+        },
+        {
           "rep": "Denver Riggleman",
           "demo": "Leslie Cockburn",
           "district": "Virginia-05",
@@ -165,8 +235,49 @@
     "available": false
   },
   "UT": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Rob Bishop",
+          "demo": "No Candidate",
+          "district": "Utah-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Chris Stewart",
+          "demo": "Shireen Ghorbani",
+          "district": "Utah-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "John Curtis",
+          "demo": "James Singer",
+          "district": "Utah-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Mia Love",
+          "demo": "Ben McAdams",
+          "district": "Utah-04",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Mitt Romney",
+          "demo": "Jenny Wilson",
+          "location": "Utah",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "TX": {
     "candidates": {
@@ -468,13 +579,15 @@
           "district": "South Carolina-03",
           "repKey": true,
           "demoKey": false
-        }, {
+        },
+        {
           "rep": "William Timmons",
           "demo": "Brandon Brown",
           "district": "South Carolina-04",
           "repKey": false,
           "demoKey": false
-        }, {
+        },
+        {
           "rep": "Ralph Norman",
           "demo": "Donald McEachin",
           "district": "South Carolina-04",
@@ -944,8 +1057,48 @@
     "available": false
   },
   "NV": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Joyce Bentley",
+          "demo": "Dina Titus",
+          "district": "Nevada-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Mark Bentley",
+          "demo": "Clint Koble",
+          "district": "Nevada-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Danny Tarkanian",
+          "demo": "Susie Lee",
+          "district": "Nevada-03",
+          "repKey": false,
+          "demoKey": false
+        }, {
+          "rep": "Cresent Hardy",
+          "demo": "Steven Horsford",
+          "district": "Nevada-04",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Dean Heller",
+          "demo": "Jacky Rosen",
+          "location": "Nevada",
+          "repKey": true,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "NE": {
     "candidates": {
@@ -1094,8 +1247,28 @@
     "available": true
   },
   "MT": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Gred Gianforte",
+          "demo": "No Candidate",
+          "district": "Montana-01",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Matt Rosendale",
+          "demo": "Jon Tester",
+          "location": "Montana",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "MO": {
     "fillKey": "upcoming",
@@ -1653,8 +1826,56 @@
     "available": false
   },
   "CO": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Casper Stockham",
+          "demo": "Diane DeGette",
+          "district": "Colorado-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Peter Yu",
+          "demo": "Joe Neguse",
+          "district": "Colorado-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Scott Tipton",
+          "demo": "Diane Mitsch Bush",
+          "district": "Colorado-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Ken Buck",
+          "demo": "Karen McCormick",
+          "district": "Colorado-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Doug Lamborn",
+          "demo": "Stephany Spaulding",
+          "district": "Colorado-05",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Colorado",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "AZ": {
     "fillKey": "upcoming",
