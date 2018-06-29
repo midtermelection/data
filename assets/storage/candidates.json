@@ -1,7 +1,48 @@
 {
   "AL": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Bradley Byrne",
+          "demo": "Robert Kennedy",
+          "district": "Alabama-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "TBD in 7/17 runoff",
+          "demo": "Tabitha Isner",
+          "district": "Alabama-02",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Mike Rogers",
+          "demo": "Mallory Hagan",
+          "district": "Alabama-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Robery Aderholt",
+          "demo": "Lee Auman",
+          "district": "Alabama-04",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Alabama",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "pending",
+    "available": true
   },
   "AR": {
     "candidates": {
@@ -553,8 +594,28 @@
     "available": false
   },
   "SD": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Dusty Johnson",
+          "demo": "Tim Bjorkman",
+          "district": "South Dakota-01",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "South Dakota",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "SC": {
     "candidates": {
@@ -808,8 +869,56 @@
     "available": true
   },
   "OK": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "TBD in 8/28 runnoff",
+          "demo": "TBD in 8/28 runnoffi",
+          "district": "Oklahoma-01",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Markwayne Mullin",
+          "demo": "TBD in 8/28 runnoff",
+          "district": "Oklahoma-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Frankie Robbins",
+          "district": "Oklahoma-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Tom Cole",
+          "demo": "TBD in 8/28 runnoff",
+          "district": "Oklahoma-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Steve Russell",
+          "demo": "TBD in 8/28 runnoff",
+          "district": "Oklahoma-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Oklahoma",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "pending",
+    "available": true
   },
   "OH": {
     "candidates": {
@@ -941,12 +1050,66 @@
     "available": true
   },
   "NM": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Janice Arnold-Jones",
+          "demo": "Debra Haaland",
+          "district": "New Mexico-01",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Yvette Herrell",
+          "demo": "Xochitl Torres Small",
+          "district": "New Mexico-02",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Jerald Steve McFall",
+          "demo": "Ben Ray Lujan",
+          "district": "New Mexico-03",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Mick Rich",
+          "demo": "Martin Heinrich",
+          "location": "New Mexico",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "ND": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Kelly Armstrong",
+          "demo": "Mac Scheider",
+          "district": "North Dakota-01",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Kevin Cramer",
+          "demo": "Heidi Heitkamp",
+          "location": "North Dakota",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "NY": {
     "candidates": {
@@ -1441,8 +1604,49 @@
     "available": false
   },
   "IA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Rod Blum",
+          "demo": "Abby Finkenauer",
+          "district": "Iowa-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Christopher Peters",
+          "demo": "Dave Loebsack",
+          "district": "Iowa-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "David Young",
+          "demo": "Cindy Axne",
+          "district": "Iowa-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Steve King",
+          "demo": "J.D. Scholten",
+          "district": "Iowa-04",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Iowa",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "IN": {
     "candidates": {
