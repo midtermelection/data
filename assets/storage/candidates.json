@@ -111,8 +111,54 @@
     "available": false
   },
   "VA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Rob Wittman",
+          "demo": "Vandie Williams",
+          "district": "Virginia-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Scott Taylor",
+          "demo": "Elaine Luria",
+          "district": "Virginia-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "No Candidate",
+          "demo": "Bobby Scott",
+          "district": "Virginia-03",
+          "repKey": false,
+          "demoKey": true
+        }, {
+          "rep": "Ryan McAdams",
+          "demo": "Donald McEachin",
+          "district": "Virginia-04",
+          "repKey": false,
+          "demoKey": true
+        }, {
+          "rep": "Denver Riggleman",
+          "demo": "Leslie Cockburn",
+          "district": "Virginia-05",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Corey Sterwart",
+          "demo": "Tim Kaine",
+          "location": "Virginia",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "WI": {
     "fillKey": "upcoming",
@@ -400,8 +446,54 @@
     "available": false
   },
   "SC": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Katie Arrington",
+          "demo": "Joe Cunningham",
+          "district": "South Carolina-01",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Joe Wilson",
+          "demo": "Sean Carrigan",
+          "district": "South Carolina-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Jeff Duncan",
+          "demo": "Mary Geren",
+          "district": "South Carolina-03",
+          "repKey": true,
+          "demoKey": false
+        }, {
+          "rep": "William Timmons",
+          "demo": "Brandon Brown",
+          "district": "South Carolina-04",
+          "repKey": false,
+          "demoKey": false
+        }, {
+          "rep": "Ralph Norman",
+          "demo": "Donald McEachin",
+          "district": "South Carolina-04",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "South Carolina",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "RI": {
     "fillKey": "upcoming",
@@ -797,53 +889,53 @@
   },
   "NJ": {
     "candidates": {
-    "house": [
-      {
-        "rep": "Paul Dilks",
-        "demo": "Donald Norcross",
-        "district": "New Jersey-01",
-        "repKey": false,
-        "demoKey": true
-      },
-      {
-        "rep": "Seth Grossman",
-        "demo": "Jeff Van Drew",
-        "district": "New Jersey-02",
-        "repKey": false,
-        "demoKey": false
-      },
-      {
-        "rep": "Tom MacArthur",
-        "demo": "Andy Kim",
-        "district": "New Jersey-03",
-        "repKey": true,
-        "demoKey": false
-      },
-      {
-        "rep": "Chris Smith",
-        "demo": "Joshua Welle",
-        "district": "New Jersey-04",
-        "repKey": true,
-        "demoKey": false
-      },
-      {
-        "rep": "John McCann",
-        "demo": "Josh Gottheimer",
-        "district": "New Jersey-05",
-        "repKey": false,
-        "demoKey": true
-      }
-    ],
-    "senate": [
-      {
-        "rep": "Bob Hugin",
-        "demo": "Bob Menendez",
-        "location": "New Jersey",
-        "repKey": false,
-        "demoKey": true
-      }
-    ]
-  },
+      "house": [
+        {
+          "rep": "Paul Dilks",
+          "demo": "Donald Norcross",
+          "district": "New Jersey-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Seth Grossman",
+          "demo": "Jeff Van Drew",
+          "district": "New Jersey-02",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Tom MacArthur",
+          "demo": "Andy Kim",
+          "district": "New Jersey-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Chris Smith",
+          "demo": "Joshua Welle",
+          "district": "New Jersey-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "John McCann",
+          "demo": "Josh Gottheimer",
+          "district": "New Jersey-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Bob Hugin",
+          "demo": "Bob Menendez",
+          "location": "New Jersey",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
     "fillKey": "completed",
     "available": true
   },
@@ -1027,84 +1119,84 @@
   },
   "ME": {
     "candidates": {
-    "house": [
-      {
-        "rep": "Mark Holbrook",
-        "demo": "Chellie Pingree",
-        "district": "Maine-01",
-        "repKey": false,
-        "demoKey": true
-      },
-      {
-        "rep": "Bruce Poliquin",
-        "demo": "Jared Golden",
-        "district": "Maine-02",
-        "repKey": true,
-        "demoKey": false
-      }
-    ],
-    "senate": [
-      {
-        "rep": "Zak Ringelstein",
-        "demo": "Eric Brakey",
-        "location": "Maine",
-        "repKey": false,
-        "demoKey": false
-      }
-    ]
-  },
+      "house": [
+        {
+          "rep": "Mark Holbrook",
+          "demo": "Chellie Pingree",
+          "district": "Maine-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Bruce Poliquin",
+          "demo": "Jared Golden",
+          "district": "Maine-02",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Zak Ringelstein",
+          "demo": "Eric Brakey",
+          "location": "Maine",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
     "fillKey": "completed",
     "available": true
   },
   "MD": {
     "candidates": {
-    "house": [
-      {
-        "rep": "Andy Harris(i)",
-        "demo": "Jesse Colvin",
-        "district": "Maryland-01",
-        "repKey": true,
-        "demoKey": false
-      },
-      {
-        "rep": "Liz Matory",
-        "demo": "Dutch Ruppersberger",
-        "district": "Maryland-02",
-        "repKey": false,
-        "demoKey": true
-      },
-      {
-        "rep": "Charles Anthony",
-        "demo": "John Sarbanes",
-        "district": "Maryland-03",
-        "repKey": false,
-        "demoKey": true
-      },
-      {
-        "rep": "George McDermott",
-        "demo": "Anthony Brown",
-        "district": "Maryland-04",
-        "repKey": false,
-        "demoKey": true
-      },
-      {
-        "rep": "William Devine",
-        "demo": "Steny Hoyer",
-        "district": "Maryland-05",
-        "repKey": false,
-        "demoKey": true
-      }
-    ],
-    "senate": [
-      {
-        "rep": "Chele Farley",
-        "demo": "Kirsten Gillibrand",
-        "location": "New York",
-        "repKey": false,
-        "demoKey": true
-      }
-    ]
-  },
+      "house": [
+        {
+          "rep": "Andy Harris(i)",
+          "demo": "Jesse Colvin",
+          "district": "Maryland-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Liz Matory",
+          "demo": "Dutch Ruppersberger",
+          "district": "Maryland-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Charles Anthony",
+          "demo": "John Sarbanes",
+          "district": "Maryland-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "George McDermott",
+          "demo": "Anthony Brown",
+          "district": "Maryland-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "William Devine",
+          "demo": "Steny Hoyer",
+          "district": "Maryland-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Tony Campbell",
+          "demo": "Ben Cardin",
+          "location": "Maryland",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
     "fillKey": "completed",
     "available": true
   },
