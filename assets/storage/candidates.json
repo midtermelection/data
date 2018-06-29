@@ -331,7 +331,7 @@
           "demoKey": false
         },
         {
-          "rep": "Decided in 5/22 runoff",
+          "rep": "Dan Crenshaw",
           "demo": "Todd Litton",
           "district": "Texas-02",
           "repKey": false,
@@ -339,7 +339,7 @@
         },
         {
           "rep": "Van Taylor",
-          "demo": "Decided in 5/22 runoff",
+          "demo": "Lorie Burch",
           "district": "Texas-03",
           "repKey": false,
           "demoKey": false
@@ -352,7 +352,7 @@
           "demoKey": false
         },
         {
-          "rep": "Decided in 5/22 runoff",
+          "rep": "Lance Gooden",
           "demo": "Dan Wood",
           "district": "Texas-05",
           "repKey": false,
@@ -1884,7 +1884,7 @@
         {
           "rep": "Mike Simpson",
           "demo": "Aaron Swisher",
-          "district": "Oregon-02",
+          "district": "Idaho-02",
           "repKey": true,
           "demoKey": false
         }
