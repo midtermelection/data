@@ -1057,8 +1057,56 @@
     "available": true
   },
   "MD": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+    "house": [
+      {
+        "rep": "Andy Harris(i)",
+        "demo": "Jesse Colvin",
+        "district": "Maryland-01",
+        "repKey": true,
+        "demoKey": false
+      },
+      {
+        "rep": "Liz Matory",
+        "demo": "Dutch Ruppersberger",
+        "district": "Maryland-02",
+        "repKey": false,
+        "demoKey": true
+      },
+      {
+        "rep": "Charles Anthony",
+        "demo": "John Sarbanes",
+        "district": "Maryland-03",
+        "repKey": false,
+        "demoKey": true
+      },
+      {
+        "rep": "George McDermott",
+        "demo": "Anthony Brown",
+        "district": "Maryland-04",
+        "repKey": false,
+        "demoKey": true
+      },
+      {
+        "rep": "William Devine",
+        "demo": "Steny Hoyer",
+        "district": "Maryland-05",
+        "repKey": false,
+        "demoKey": true
+      }
+    ],
+    "senate": [
+      {
+        "rep": "Chele Farley",
+        "demo": "Kirsten Gillibrand",
+        "location": "New York",
+        "repKey": false,
+        "demoKey": true
+      }
+    ]
+  },
+    "fillKey": "completed",
+    "available": true
   },
   "LA": {
     "fillKey": "upcoming",
