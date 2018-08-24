@@ -2019,8 +2019,35 @@
     "available": true
   },
   "HI": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Cam Cavasso",
+          "demo": "Ed Case",
+          "district": "Hawaii-01",
+          "repKey": false,
+          "demoKey": false
+        },
+        {
+          "rep": "Brian Evans",
+          "demo": "Tulsi Gabbard",
+          "district": "Hawaii-02",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Ron Curtis",
+          "demo": "Mazie Hirono",
+          "location": "Hawaii",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "GA": {
     "candidates": {
