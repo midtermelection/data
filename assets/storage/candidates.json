@@ -90,8 +90,28 @@
     "available": true
   },
   "AK": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Don Young",
+          "demo": "To be determined",
+          "district": "Alaska-01",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "No race",
+          "demo": "No race",
+          "location": "Alaska",
+          "repKey": false,
+          "demoKey": false
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "CT": {
     "candidates": {
