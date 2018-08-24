@@ -312,8 +312,28 @@
     "available": true
   },
   "VT": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Brooke Paige",
+          "demo": "Peter Welch",
+          "district": "Vermont-01",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [
+        {
+          "rep": "To be determined",
+          "demo": "Bernie Sanders",
+          "location": "Vermont",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "VA": {
     "candidates": {
