@@ -170,8 +170,8 @@
         }
       ]
     },
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "WV": {
     "candidates": {
@@ -212,8 +212,56 @@
     "available": true
   },
   "WA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Jeffery Beeler",
+          "demo": "Suzan DelBene",
+          "district": "Washington-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "To be determined",
+          "demo": "Rick Larsen",
+          "district": "Washington-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Jaime Herrera Beutler",
+          "demo": "Carolyn Long",
+          "district": "Washington-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Dan Newhouse",
+          "demo": "Christine Brown",
+          "district": "Washington-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Cathy McMorris Rodgers",
+          "demo": "Lisa Brown",
+          "district": "Washington-05",
+          "repKey": true,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Susan Hutchison",
+          "demo": "Maria Cantwell",
+          "location": "Washington",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "VT": {
     "fillKey": "upcoming",
