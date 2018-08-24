@@ -153,19 +153,19 @@
     "candidates": {
       "house": [
         {
-          "rep": "To be determined",
+          "rep": "Liz Cheney",
           "demo": "To be determined",
           "district": "Wyoming-01",
-          "repKey": false,
+          "repKey": true,
           "demoKey": false
         }
       ],
       "senate": [
         {
-          "rep": "To be determined",
-          "demo": "To be determined",
+          "rep": "John Barrasso",
+          "demo": "Gary Trauner",
           "location": "Wyoming",
-          "repKey": false,
+          "repKey": true,
           "demoKey": false
         }
       ]
