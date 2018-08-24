@@ -94,8 +94,56 @@
     "available": false
   },
   "CT": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+          "rep": "Jennifer Nye",
+          "demo": "John Larson",
+          "district": "Connecticut-01",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Danny Postemski",
+          "demo": "Joe Courtney",
+          "district": "Connecticut-02",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Angel Cadena",
+          "demo": "Rosa Delauro",
+          "district": "Connecticut-03",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Harry Arora",
+          "demo": "Jim Himes",
+          "district": "Connecticut-04",
+          "repKey": false,
+          "demoKey": true
+        },
+        {
+          "rep": "Manny Santos",
+          "demo": "Jahana Hayes",
+          "district": "Connecticut-05",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [
+        {
+          "rep": "Matthew Corey",
+          "demo": "Chris Murphy",
+          "location": "Connecticut",
+          "repKey": false,
+          "demoKey": true
+        }
+      ]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "CA": {
     "candidates": {
