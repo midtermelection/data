@@ -151,7 +151,7 @@
 		}
 	},
 	"KS": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/01/2018"
 		},
@@ -241,7 +241,7 @@
 		}
 	},
 	"MN": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/05/2018"
 		},
@@ -286,7 +286,7 @@
 		}
 	},
 	"MO": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "03/27/2018"
 		},
@@ -541,7 +541,7 @@
 		}
 	},
 	"TN": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "04/05/2018"
 		},
@@ -586,7 +586,7 @@
 		}
 	},
 	"WI": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/01/2018"
 		},
@@ -616,7 +616,7 @@
 		}
 	},
 	"VT": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "5/31/2018"
 		},
@@ -631,7 +631,7 @@
 		}
 	},
 	"WA": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "05/18/2018"
 		},
@@ -661,7 +661,7 @@
 		}
 	},
 	"WY": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/01/2018"
 		},
@@ -706,7 +706,7 @@
 		}
 	},
 	"AK": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/01/2018"
 		},
