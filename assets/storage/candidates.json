@@ -1,8 +1,7 @@
 {
   "AL": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Bradley Byrne",
           "demo": "Robert Kennedy",
           "district": "Alabama-01",
@@ -38,23 +37,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Alabama",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Alabama",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "AR": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Rick Crawford",
           "demo": "Chintan Desai",
           "district": "Arkansas-01",
@@ -83,47 +79,40 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Arkansas",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Arkansas",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "AK": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Don Young",
-          "demo": "To be determined",
-          "district": "Alaska-01",
-          "repKey": true,
-          "demoKey": false
-        }
-      ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Alaska",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "house": [{
+        "rep": "Don Young",
+        "demo": "To be determined",
+        "district": "Alaska-01",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Alaska",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "CT": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Jennifer Nye",
           "demo": "John Larson",
           "district": "Connecticut-01",
@@ -159,23 +148,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Matthew Corey",
-          "demo": "Chris Murphy",
-          "location": "Connecticut",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Matthew Corey",
+        "demo": "Chris Murphy",
+        "location": "Connecticut",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "CA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Doug LaMalfa",
           "demo": "Audrey Denney",
           "district": "California-01",
@@ -211,47 +197,40 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No Canidate",
-          "demo": "Dianne Feinstein | Kevin De Leon ",
-          "location": "California",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "No Canidate",
+        "demo": "Dianne Feinstein | Kevin De Leon ",
+        "location": "California",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "WY": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Liz Cheney",
-          "demo": "To be determined",
-          "district": "Wyoming-01",
-          "repKey": true,
-          "demoKey": false
-        }
-      ],
-      "senate": [
-        {
-          "rep": "John Barrasso",
-          "demo": "Gary Trauner",
-          "location": "Wyoming",
-          "repKey": true,
-          "demoKey": false
-        }
-      ]
+      "house": [{
+        "rep": "Liz Cheney",
+        "demo": "To be determined",
+        "district": "Wyoming-01",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "John Barrasso",
+        "demo": "Gary Trauner",
+        "location": "Wyoming",
+        "repKey": true,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "WV": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "David McKinley",
           "demo": "Kendra Fershee",
           "district": "West Virginia-01",
@@ -273,23 +252,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Patrick Morrisey",
-          "demo": "Joe Manchin",
-          "location": "West Virginia",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Patrick Morrisey",
+        "demo": "Joe Manchin",
+        "location": "West Virginia",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "WA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Jeffery Beeler",
           "demo": "Suzan DelBene",
           "district": "Washington-01",
@@ -325,47 +301,40 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Susan Hutchison",
-          "demo": "Maria Cantwell",
-          "location": "Washington",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Susan Hutchison",
+        "demo": "Maria Cantwell",
+        "location": "Washington",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "VT": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Brooke Paige",
-          "demo": "Peter Welch",
-          "district": "Vermont-01",
-          "repKey": false,
-          "demoKey": true
-        }
-      ],
-      "senate": [
-        {
-          "rep": "To be determined",
-          "demo": "Bernie Sanders",
-          "location": "Vermont",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "house": [{
+        "rep": "Brooke Paige",
+        "demo": "Peter Welch",
+        "district": "Vermont-01",
+        "repKey": false,
+        "demoKey": true
+      }],
+      "senate": [{
+        "rep": "To be determined",
+        "demo": "Bernie Sanders",
+        "location": "Vermont",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "VA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Rob Wittman",
           "demo": "Vandie Williams",
           "district": "Virginia-01",
@@ -401,27 +370,69 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Corey Sterwart",
-          "demo": "Tim Kaine",
-          "location": "Virginia",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Corey Sterwart",
+        "demo": "Tim Kaine",
+        "location": "Virginia",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "WI": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Bryan Steil",
+        "demo": "Randy Bryce",
+        "district": "Wisconsin-01",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "No Candidate",
+        "demo": "Mark Pocan",
+        "district": "Wisconsin-02",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Steve Toft",
+        "demo": "Ron Kind",
+        "district": "Wisconsin-03",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Tim Rogers",
+        "demo": "Gwen Moore",
+        "district": "Wisconsin-04",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Jim Sensenbrenner",
+        "demo": "Tom Palzewicz",
+        "district": "Wisconsin-05",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Lean Vukmir",
+        "demo": "Tammy Baldwin",
+        "location": "Wisconsin",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "UT": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Rob Bishop",
           "demo": "No Candidate",
           "district": "Utah-01",
@@ -450,23 +461,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Mitt Romney",
-          "demo": "Jenny Wilson",
-          "location": "Utah",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Mitt Romney",
+        "demo": "Jenny Wilson",
+        "location": "Utah",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "TX": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Louie Gohmert",
           "demo": "Shirley J. McKellar",
           "district": "Texas-01",
@@ -719,51 +727,89 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Ted Cruz",
-          "demo": "Beto O'Rourke",
-          "location": "Texas",
-          "repKey": true,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "Ted Cruz",
+        "demo": "Beto O'Rourke",
+        "location": "Texas",
+        "repKey": true,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "TN": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Phil Roe",
+        "demo": "Marty Olsen",
+        "district": "Tennessee-01",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Tim Burchett",
+        "demo": "Renee Hoyos",
+        "district": "Tennessee-02",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Chuck Fleischmann",
+        "demo": "Danielle Mitchell",
+        "district": "Tennessee-03",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Scott DesJarlais",
+        "demo": "Mariah Phillips",
+        "district": "Tennessee-04",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Jody Ball",
+        "demo": "Jim Cooper",
+        "district": "Tennessee-05",
+        "repKey": false,
+        "demoKey": true
+      }],
+      "senate": [{
+        "rep": "Jim Newberger",
+        "demo": "Amy Klobuchar",
+        "location": "Tennessee",
+        "repKey": false,
+        "demoKey": false
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "SD": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Dusty Johnson",
-          "demo": "Tim Bjorkman",
-          "district": "South Dakota-01",
-          "repKey": false,
-          "demoKey": false
-        }
-      ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "South Dakota",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "house": [{
+        "rep": "Dusty Johnson",
+        "demo": "Tim Bjorkman",
+        "district": "South Dakota-01",
+        "repKey": false,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "South Dakota",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "SC": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Katie Arrington",
           "demo": "Joe Cunningham",
           "district": "South Carolina-01",
@@ -799,15 +845,13 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "South Carolina",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "South Carolina",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
@@ -818,8 +862,7 @@
   },
   "PA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Brian Fitzpatrick",
           "demo": "Scott Wallace",
           "district": "Pennsylvania-01",
@@ -946,23 +989,20 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Lou Barletta",
-          "demo": "Bob Casey",
-          "location": "Pennsylvania",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Lou Barletta",
+        "demo": "Bob Casey",
+        "location": "Pennsylvania",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "OR": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "John Verbeek",
           "demo": "Suzanne Bonamici",
           "district": "Oregon-01",
@@ -998,23 +1038,20 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Oregon",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Oregon",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "OK": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "TBD in 8/28 runnoff",
           "demo": "TBD in 8/28 runnoffi",
           "district": "Oklahoma-01",
@@ -1050,23 +1087,20 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Oklahoma",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Oklahoma",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "pending",
     "available": true
   },
   "OH": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Steve Chabot",
           "demo": "Aftab Pureval",
           "district": "Ohio-01",
@@ -1179,23 +1213,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Jim Renacci",
-          "demo": "Sherrod Brown",
-          "location": "Ohio",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Jim Renacci",
+        "demo": "Sherrod Brown",
+        "location": "Ohio",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "NM": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Janice Arnold-Jones",
           "demo": "Debra Haaland",
           "district": "New Mexico-01",
@@ -1217,47 +1248,40 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Mick Rich",
-          "demo": "Martin Heinrich",
-          "location": "New Mexico",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Mick Rich",
+        "demo": "Martin Heinrich",
+        "location": "New Mexico",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "ND": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Kelly Armstrong",
-          "demo": "Mac Scheider",
-          "district": "North Dakota-01",
-          "repKey": false,
-          "demoKey": false
-        }
-      ],
-      "senate": [
-        {
-          "rep": "Kevin Cramer",
-          "demo": "Heidi Heitkamp",
-          "location": "North Dakota",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "house": [{
+        "rep": "Kelly Armstrong",
+        "demo": "Mac Scheider",
+        "district": "North Dakota-01",
+        "repKey": false,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Kevin Cramer",
+        "demo": "Heidi Heitkamp",
+        "location": "North Dakota",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "NY": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Lee Zeldin",
           "demo": "Perry Gershon",
           "district": "New York-01",
@@ -1293,23 +1317,20 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Chele Farley",
-          "demo": "Kirsten Gillibrand",
-          "location": "New York",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Chele Farley",
+        "demo": "Kirsten Gillibrand",
+        "location": "New York",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "NJ": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Paul Dilks",
           "demo": "Donald Norcross",
           "district": "New Jersey-01",
@@ -1345,15 +1366,13 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Bob Hugin",
-          "demo": "Bob Menendez",
-          "location": "New Jersey",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Bob Hugin",
+        "demo": "Bob Menendez",
+        "location": "New Jersey",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
@@ -1364,8 +1383,7 @@
   },
   "NV": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Joyce Bentley",
           "demo": "Dina Titus",
           "district": "Nevada-01",
@@ -1393,23 +1411,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Dean Heller",
-          "demo": "Jacky Rosen",
-          "location": "Nevada",
-          "repKey": true,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "Dean Heller",
+        "demo": "Jacky Rosen",
+        "location": "Nevada",
+        "repKey": true,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "NE": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Jeff Fortenberry",
           "demo": "Jessica McClure",
           "district": "Nebraska-01",
@@ -1431,23 +1446,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Deb Fischer",
-          "demo": "Jane Raybould",
-          "location": "Nebraska",
-          "repKey": true,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "Deb Fischer",
+        "demo": "Jane Raybould",
+        "location": "Nebraska",
+        "repKey": true,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "NC": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Roger Allison",
           "demo": "G.K Butterfield",
           "district": "North Carolina-01",
@@ -1539,56 +1551,223 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "North Carolina",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "North Carolina",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "MT": {
     "candidates": {
-      "house": [
-        {
-          "rep": "Gred Gianforte",
-          "demo": "No Candidate",
-          "district": "Montana-01",
-          "repKey": true,
-          "demoKey": false
-        }
-      ],
-      "senate": [
-        {
-          "rep": "Matt Rosendale",
-          "demo": "Jon Tester",
-          "location": "Montana",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "house": [{
+        "rep": "Gred Gianforte",
+        "demo": "No Candidate",
+        "district": "Montana-01",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Matt Rosendale",
+        "demo": "Jon Tester",
+        "location": "Montana",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "MO": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "To be determined",
+        "demo": "Lacy Clay",
+        "district": "Missouri-01",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Ann Wagner",
+        "demo": "Cort VanOstran",
+        "district": "Missouri-02",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Blaine Luetkemeyer",
+        "demo": "Katy Geppert",
+        "district": "Missouri-03",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Vicky Hartzler",
+        "demo": "Renee Hoagenson",
+        "district": "Missouri-04",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Jacob Turk",
+        "demo": "Emmanuel Cleaver",
+        "district": "Missouri-05",
+        "repKey": false,
+        "demoKey": true
+      }],
+      "senate": [{
+        "rep": "Josh Hawley",
+        "demo": "Claire McCaskill",
+        "location": "Missouri",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "MS": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Trent Kelly",
+        "demo": "Randy Wadkins",
+        "district": "Mississippi-01",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "No candidate",
+        "demo": "Bennie Thompson",
+        "district": "Mississippi-02",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Michael Guest",
+        "demo": "Michael Evans",
+        "district": "Mississippi-03",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Steven Palazzo",
+        "demo": "Jeramey Anderson",
+        "district": "Mississippi-04",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Roger Wicker",
+        "demo": "David Baria",
+        "location": "Mississippi",
+        "repKey": true,
+        "demoKey": false
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "MI": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Jack Bergman",
+        "demo": "To be determined",
+        "district": "Michigan-01",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Bill Huizenga",
+        "demo": "Rob Davidson",
+        "district": "Michigan-02",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Justin Amash",
+        "demo": "Cathy Albro",
+        "district": "Michigan-03",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "John Moolenaar",
+        "demo": "Jerry Hilliard",
+        "district": "Michigan-04",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Travis Wines",
+        "demo": "Dan Kildee",
+        "district": "Michigan-05",
+        "repKey": false,
+        "demoKey": true
+      }],
+      "senate": [{
+        "rep": "John James",
+        "demo": "Debbie Stabenow",
+        "location": "Michigan",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "MN": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Jim Hagedorn",
+        "demo": "Dan Feehan",
+        "district": "Minnesota-01",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Jason Lewis",
+        "demo": "Angie Craig",
+        "district": "Minnesota-02",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Erik Paulsen",
+        "demo": "Dean Phillips",
+        "district": "Minnesota-03",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Greg Ryan",
+        "demo": "Betty McCollum",
+        "district": "Minnesota-04",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Jennifer Zielinski",
+        "demo": "Ilhan Omar",
+        "district": "Minnesota-05",
+        "repKey": false,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Jim Newberger",
+        "demo": "Amy Klobuchar",
+        "location": "Minnesota",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
@@ -1598,8 +1777,7 @@
   },
   "ME": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Mark Holbrook",
           "demo": "Chellie Pingree",
           "district": "Maine-01",
@@ -1614,23 +1792,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Zak Ringelstein",
-          "demo": "Eric Brakey",
-          "location": "Maine",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "Zak Ringelstein",
+        "demo": "Eric Brakey",
+        "location": "Maine",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "MD": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Andy Harris(i)",
           "demo": "Jesse Colvin",
           "district": "Maryland-01",
@@ -1666,15 +1841,13 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Tony Campbell",
-          "demo": "Ben Cardin",
-          "location": "Maryland",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Tony Campbell",
+        "demo": "Ben Cardin",
+        "location": "Maryland",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
@@ -1685,8 +1858,7 @@
   },
   "KY": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "James Comer",
           "demo": "Paul Walker",
           "district": "Kentucky-01",
@@ -1729,27 +1901,62 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Kentucky",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Kentucky",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "KS": {
+    "candidates": {
+      "house": [
+        {
+        "rep": "Roger Marshall",
+        "demo": "Alan LaPolice",
+        "district": "Kansas-01",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Steve Watkins",
+        "demo": "Paul Davis",
+        "district": "Kansas-02",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Kevin Yoder",
+        "demo": "Sharice Davids",
+        "district": "Kansas-03",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Ron Estes",
+        "demo": "James Thompson",
+        "district": "Kansas-04",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Kansas",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
     "fillKey": "completed",
     "available": true
   },
   "IA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Rod Blum",
           "demo": "Abby Finkenauer",
           "district": "Iowa-01",
@@ -1778,23 +1985,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Iowa",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Iowa",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "IN": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Mark Leyva",
           "demo": "Peter Visclosky",
           "district": "Indiana-01",
@@ -1858,23 +2062,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "Mike Braun",
-          "demo": "Joe Donnelly",
-          "location": "Indiana",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Mike Braun",
+        "demo": "Joe Donnelly",
+        "location": "Indiana",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "IL": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Jimmy Lee Tillman",
           "demo": "Bobby Rush",
           "district": "Illinois-01",
@@ -2001,23 +2202,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Illinois",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Illinois",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "ID": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Russ Fulcher",
           "demo": "Cristina McNeil",
           "district": "Idaho-01",
@@ -2032,23 +2230,20 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Idaho",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Idaho",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "HI": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Cam Cavasso",
           "demo": "Ed Case",
           "district": "Hawaii-01",
@@ -2063,23 +2258,20 @@
           "demoKey": true
         }
       ],
-      "senate": [
-        {
-          "rep": "Ron Curtis",
-          "demo": "Mazie Hirono",
-          "location": "Hawaii",
-          "repKey": false,
-          "demoKey": true
-        }
-      ]
+      "senate": [{
+        "rep": "Ron Curtis",
+        "demo": "Mazie Hirono",
+        "location": "Hawaii",
+        "repKey": false,
+        "demoKey": true
+      }]
     },
     "fillKey": "completed",
     "available": true
   },
   "GA": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Buddy Carter",
           "demo": "Lisa Ring",
           "district": "Georgia-01",
@@ -2178,15 +2370,13 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Georgia",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Georgia",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
@@ -2201,8 +2391,7 @@
   },
   "CO": {
     "candidates": {
-      "house": [
-        {
+      "house": [{
           "rep": "Casper Stockham",
           "demo": "Diane DeGette",
           "district": "Colorado-01",
@@ -2238,15 +2427,13 @@
           "demoKey": false
         }
       ],
-      "senate": [
-        {
-          "rep": "No race",
-          "demo": "No race",
-          "location": "Colorado",
-          "repKey": false,
-          "demoKey": false
-        }
-      ]
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Colorado",
+        "repKey": false,
+        "demoKey": false
+      }]
     },
     "fillKey": "completed",
     "available": true
