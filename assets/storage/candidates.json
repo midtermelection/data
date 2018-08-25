@@ -415,8 +415,8 @@
     "available": true
   },
   "WI": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "UT": {
     "candidates": {
@@ -733,8 +733,8 @@
     "available": true
   },
   "TN": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "SD": {
     "candidates": {
@@ -1577,20 +1577,20 @@
     "available": true
   },
   "MO": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "MS": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "MI": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "MN": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "MA": {
     "fillKey": "upcoming",
@@ -1743,8 +1743,8 @@
     "available": true
   },
   "KS": {
-    "fillKey": "upcoming",
-    "available": false
+    "fillKey": "completed",
+    "available": true
   },
   "IA": {
     "candidates": {
