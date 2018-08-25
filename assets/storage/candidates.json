@@ -10,10 +10,10 @@
           "demoKey": false
         },
         {
-          "rep": "TBD in 7/17 runoff",
+          "rep": "Martha Roby",
           "demo": "Tabitha Isner",
           "district": "Alabama-02",
-          "repKey": false,
+          "repKey": true,
           "demoKey": false
         },
         {
@@ -29,6 +29,13 @@
           "district": "Alabama-04",
           "repKey": true,
           "demoKey": false
+        },
+        {
+          "rep": "Mo Brooks",
+          "demo": "Peter Joffrion",
+          "district": "Alabama-05",
+          "repKey": true,
+          "demoKey": false
         }
       ],
       "senate": [
@@ -41,7 +48,7 @@
         }
       ]
     },
-    "fillKey": "pending",
+    "fillKey": "completed",
     "available": true
   },
   "AR": {
