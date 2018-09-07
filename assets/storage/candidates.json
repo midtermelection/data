@@ -2439,7 +2439,52 @@
     "available": true
   },
   "AZ": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+        "rep": "To be determined",
+        "demo": "Tom OHalleran'",
+        "district": "Arizona-01",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Lea Marquez Peterson",
+        "demo": "Ann Kirkpatrick",
+        "district": "Arizona-02",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Nick Pierson",
+        "demo": "Raul Grijalva",
+        "district": "Arizona-03",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Paul Gosar",
+        "demo": "To be determined",
+        "district": "Arizona-04",
+        "repKey": true,
+        "demoKey": false
+      }, 
+      {
+        "rep": "Andy Biggs",
+        "demo": "Joan Greene",
+        "district": "Arizona-05",
+        "repKey": true,
+        "demoKey": false
+      }],
+      "senate": [{
+        "rep": "Martha McSally",
+        "demo": "Krysten Sinema",
+        "location": "Arizona",
+        "repKey": false,
+        "demoKey": false
+      }]
+    },
+    "fillKey": "completed",
+    "available": true
   }
 }
