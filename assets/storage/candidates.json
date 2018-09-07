@@ -1772,8 +1772,53 @@
     "available": true
   },
   "MA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [
+        {
+        "rep": "No Candidate",
+        "demo": "Richard Neal",
+        "district": "Massachusetts-01",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Tracy Lovvorn",
+        "demo": "Jim McGovern",
+        "district": "Massachusetts-02",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "Rick Green",
+        "demo": "To be determined",
+        "district": "Massachusetts-03",
+        "repKey": false,
+        "demoKey": false
+      }, 
+      {
+        "rep": "No candidate",
+        "demo": "Joe Kennedy",
+        "district": "Massachusetts-04",
+        "repKey": false,
+        "demoKey": true
+      }, 
+      {
+        "rep": "John Hugo",
+        "demo": "Katherine Clark",
+        "district": "Massachusetts-05",
+        "repKey": false,
+        "demoKey": true
+      }],
+      "senate": [{
+        "rep": "Geoff Diehl",
+        "demo": "Elizabeth Warren",
+        "location": "Massachusetts",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "ME": {
     "candidates": {
