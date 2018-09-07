@@ -1052,21 +1052,21 @@
   "OK": {
     "candidates": {
       "house": [{
-          "rep": "TBD in 8/28 runnoff",
-          "demo": "TBD in 8/28 runnoffi",
+          "rep": "Kevin Hern",
+          "demo": "Tim Gilpin",
           "district": "Oklahoma-01",
           "repKey": false,
           "demoKey": false
         },
         {
           "rep": "Markwayne Mullin",
-          "demo": "TBD in 8/28 runnoff",
+          "demo": "Jason Nichols",
           "district": "Oklahoma-02",
           "repKey": true,
           "demoKey": false
         },
         {
-          "rep": "No Candidate",
+          "rep": "Frank D. Lucas",
           "demo": "Frankie Robbins",
           "district": "Oklahoma-03",
           "repKey": true,
@@ -1074,14 +1074,14 @@
         },
         {
           "rep": "Tom Cole",
-          "demo": "TBD in 8/28 runnoff",
+          "demo": "Mary Brannon",
           "district": "Oklahoma-04",
           "repKey": true,
           "demoKey": false
         },
         {
           "rep": "Steve Russell",
-          "demo": "TBD in 8/28 runnoff",
+          "demo": "Kendra Hom",
           "district": "Oklahoma-05",
           "repKey": false,
           "demoKey": true
@@ -1095,7 +1095,7 @@
         "demoKey": false
       }]
     },
-    "fillKey": "pending",
+    "fillKey": "completed",
     "available": true
   },
   "OH": {
