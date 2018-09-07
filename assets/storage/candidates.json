@@ -1853,8 +1853,25 @@
     "available": true
   },
   "LA": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [{
+          "rep": "To be determined",
+          "demo": "To be determined",
+          "district": "Louisiana-01",
+          "repKey": false,
+          "demoKey": false
+        }
+      ],
+      "senate": [{
+        "rep": "No race",
+        "demo": "No race",
+        "location": "Louisiana",
+        "repKey": false,
+        "demoKey": false
+      }]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "KY": {
     "candidates": {
@@ -2382,12 +2399,74 @@
     "available": true
   },
   "FL": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [{
+          "rep": "Matt Gaetz",
+          "demo": "Jennifer Zimmerman",
+          "district": "Florida-01",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Neal Dunn",
+          "demo": "Bob Rackleff",
+          "district": "Florida-02",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Ted Yoho",
+          "demo": "Yvonne Hayes Hinson",
+          "district": "Florida-03",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "John Rutherford",
+          "demo": "George Selmont",
+          "district": "Florida-04",
+          "repKey": true,
+          "demoKey": false
+        },
+        {
+          "rep": "Virginia Fuller",
+          "demo": "Al Lawson",
+          "district": "Florida-05",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [{
+        "rep": "Rick Scott",
+        "demo": "Bil Nelson",
+        "location": "Florida",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "DE": {
-    "fillKey": "upcoming",
-    "available": false
+    "candidates": {
+      "house": [{
+          "rep": "Scott Walker",
+          "demo": "Lisa BLunt Rochester",
+          "district": "Delaware-01",
+          "repKey": false,
+          "demoKey": true
+        }
+      ],
+      "senate": [{
+        "rep": "Robert Arlett",
+        "demo": "Tom Carper",
+        "location": "Delaware",
+        "repKey": false,
+        "demoKey": true
+      }]
+    },
+    "fillKey": "completed",
+    "available": true
   },
   "CO": {
     "candidates": {
