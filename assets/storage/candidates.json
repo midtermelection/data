@@ -1915,8 +1915,8 @@
         "demoKey": false
       }]
     },
-    "fillKey": "completed",
-    "available": true
+    "fillKey": "upcoming",
+    "available": false
   },
   "KY": {
     "candidates": {
