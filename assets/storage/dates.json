@@ -1,6 +1,6 @@
 {
 	"AZ": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "5/30/2018"
 		},
@@ -31,7 +31,7 @@
 		}
 	},
 	"DE": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "07/10/2018"
 		},
@@ -46,7 +46,7 @@
 		}
 	},
 	"FL": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "5/04/2018"
 		},
@@ -226,7 +226,7 @@
 		}
 	},
 	"MA": {
-		"fillKey": "coming",
+		"fillKey": "past",
 		"filing": {
 			"date": "06/05/2018"
 		},
